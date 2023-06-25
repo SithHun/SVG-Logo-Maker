@@ -57,6 +57,4 @@ User will be prompted with questions and choices to choose from to create their 
 <br>
 
 ## Screenshots
-![Screenshot](https://github.com/SithHun/SVG-Logo-Maker/blob/main/screenshots/screenshot2.JPG?raw=true)
-
 ![SVG-Logo](https://raw.githubusercontent.com/SithHun/SVG-Logo-Maker/fe7aced9b3e4657b8c365f3fdedce5ed8cd72053/examples/logo.svg)
