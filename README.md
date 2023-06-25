@@ -45,7 +45,7 @@ User will be prompted with questions and choices to choose from to create their 
 
 <br>
 
-### <ins>*About Me*</ins>
+### *About Me*
 *links to contacts*
 
 > Name: *Sith Hun*
@@ -56,5 +56,5 @@ User will be prompted with questions and choices to choose from to create their 
 
 <br>
 
-## Screenshots
+### Screenshots
 ![SVG-Logo](https://raw.githubusercontent.com/SithHun/SVG-Logo-Maker/fe7aced9b3e4657b8c365f3fdedce5ed8cd72053/examples/logo.svg)
