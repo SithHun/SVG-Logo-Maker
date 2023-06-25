@@ -12,7 +12,19 @@ so that I don't have to pay a graphic designer.
 <br>
 
 ## <ins>**Installation**</ins>
-Create a git clone of the repo with command-line in terminal > git clone repo-link-goes-here . Run terminal with > npm install . The repo requires two packages: inquirer and jest. Jest is used for testing purposes and is not needed, but will be included in this repo for school purposes. Run in terminal > node index.js . User will be prompted with questions and choices to choose from to create their SVG Logo.
+Create a git clone of the repo with command-line in terminal:
+
+>git clone repo-link-goes-here
+
+Run in terminal:
+
+>npm install
+
+The repo requires two packages: inquirer and jest. Jest is used for testing purposes and is not needed, but will be included in this repo for school purposes. Run in the terminal:
+
+>node index.js
+
+User will be prompted with questions and choices to choose from to create their SVG Logo.
 
 <br>
 
