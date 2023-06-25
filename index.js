@@ -1,3 +1,3 @@
-const { generateLogo } = require('./logoGenerator.js');
+const { generateLogo } = require('./lib/logoGenerator');
 
 generateLogo();
